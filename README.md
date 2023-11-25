@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/quielLovesLasagna/single-price-grid-component](https://github.com/quielLovesLasagna/single-price-grid-component)
+- Live Site URL: [https://quiel-single-price-grid-component.netlify.app/](https://quiel-single-price-grid-component.netlify.app/)
 
 ## My process
 
